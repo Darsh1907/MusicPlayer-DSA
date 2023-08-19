@@ -1,2 +1,2 @@
-# Music_Player_Data_Structure
+# MusicPlayer-Data Structures
 Data Structures Assignment to implement a Music player using C language.
